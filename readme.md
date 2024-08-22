@@ -1,7 +1,20 @@
-# Space Horizon
+<h1 align="center">Space Horizon</h1>
 
 Explore the galaxy and build your own space station and fleet of ships to
 save the galaxy from the lurking unknowns.
+
+## Table of Contents
+
+- [About](#about)
+- [Developer Note](#developer-note)
+- [License](#license)
+- [Roadmap](#roadmap-milestone-010)
+
+## About
+
+Space Horizon is a 2D top-down space exploration game where you can explore
+the galaxy and build your own space station and fleet of ships to save the
+galaxy from the lurking unknowns.
 
 ## Developer Note
 
